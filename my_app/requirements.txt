@@ -3,4 +3,4 @@ bs4==0.0.1
 Django==2.2.6
 pytz==2019.3
 soupsieve==1.9.4
-sqlparse==0.3.0
+sqlparse==0.4.4
